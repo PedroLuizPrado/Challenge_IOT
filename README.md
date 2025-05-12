@@ -6,6 +6,11 @@ Este projeto faz parte do **Sprint03** da disciplina **Disruptive Architectures:
 A solução é baseada em imagens públicas do [Panoramic Dental Dataset (Kaggle)](https://www.kaggle.com/datasets/thunderpede/panoramic-dental-dataset) e propõe uma arquitetura escalável e integrável a sistemas clínicos.
 
 ---
+## 👥 Integrantes do Grupo
+
+* **Murillo Ferreira Ramos** - RM553315
+* **Pedro Luiz Prado** - RM553874
+* **William Kenzo Hayashi** - RM552659
 
 ## ✅ Evolução da Versão Final
 
