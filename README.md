@@ -1,4 +1,4 @@
-# 🦷 Sprint03: BetterTooth - Detecção de Cáries com IA
+# 🦷 Sprint04: BetterTooth - Detecção de Cáries com IA
 
 ## 📌 Sobre o Projeto
 Este projeto faz parte do **Sprint03** da disciplina **Disruptive Architectures: IoT, IOB & Generative IA**. O objetivo principal é desenvolver um modelo de **Inteligência Artificial** para **detecção de cáries dentárias** a partir de imagens odontológicas panorâmicas, utilizando **Redes Neurais Convolucionais (CNNs)** e técnicas de **Transfer Learning**.
